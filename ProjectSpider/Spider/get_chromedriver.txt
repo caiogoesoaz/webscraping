@@ -1,0 +1,2 @@
+Substituir a versão, pela versão do chrome instalado no computador
+https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.185/win64/chromedriver-win64.zip

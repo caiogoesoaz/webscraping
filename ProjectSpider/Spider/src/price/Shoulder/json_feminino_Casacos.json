@@ -1,0 +1,3034 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/trench-coat-cropped-012424119003/p",
+                "name": "Trench coat cropped",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2370588/012424119003_0368_010-TRENCH-COAT-CROPPED.jpg?v=638573600050670000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco estilo Trenchcoat &lt;br&gt;&lt;li&gt;Comprimento curto &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido estruturado com toque empapelado e leve brilho &lt;br&gt;&lt;li&gt;Fechamento frontal com 4 botões &lt;br&gt;&lt;li&gt;Detalhes de martingales nos ombros e nos punhos &lt;br&gt;&lt;li&gt;Os botões são diferenciados com borda dourada. &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020322",
+                "sku": "2126742",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 759,
+                    "highPrice": 759,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 759,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126742",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 759,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126743",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:06:28Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 759,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126744",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 759,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126745",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 759,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126746",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 759,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126747",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 759,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126748",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 759,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126749",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 8
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-listrado-012424229002/p",
+                "name": "Cardigan tricot listrado",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2357896/012424229002_0003_010-CARDIGAN-TRICOT-LISTRADO.jpg?v=638560678044970000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem curta &lt;br&gt;&lt;li&gt;Tecido: Tricot toque texturizado e gelado &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrênca do uso do flash",
+                "mpn": "2020375",
+                "sku": "2127179",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 459,
+                    "highPrice": 459,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 459,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2127179",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:09:24Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2127180",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2127181",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2127182",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2127183",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/trench-coat-areia-241415906/p",
+                "name": "Trench coat areia",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2309348/241415906_0017_010-TRENCH-COAT-AREIA.jpg?v=638483590798030000",
+                "description": "&lt;br&gt;&lt;li&gt;Trench coat &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem pesada &lt;br&gt;&lt;li&gt;Tecido estruturado com leve acetinado &lt;br&gt;&lt;li&gt;Fechamento frontal com botões &lt;br&gt;&lt;li&gt;Bolsos frontais &lt;br&gt;&lt;li&gt;Fenda no inferior das costas &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020895",
+                "sku": "2130340",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 899,
+                    "highPrice": 899,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 899,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130340",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 899,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130341",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 899,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130342",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 899,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130345",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 899,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130346",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 899,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130347",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 6
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-basico-khaki-241423002/p",
+                "name": "Cardigan tricot básico khaki",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2279853/241423002_0699_010-CARDIGAN-TRICOT-BASICO.jpg?v=638458524185530000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido:tricot leve &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Detalhe canelado na lateral da peça &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2020660",
+                "sku": "2128822",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 239,
+                    "highPrice": 239,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2128822",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2128823",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2128824",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2128825",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2128826",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-basico-marinho-241423001/p",
+                "name": "Cardigan tricot básico marinho",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2279787/241423001_0105_010-CARDIGAN-TRICOT-BASICO.jpg?v=638458523458400000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido:tricot leve &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Detalhe canelado na lateral da peça &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2020668",
+                "sku": "2129063",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 239,
+                    "highPrice": 239,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129063",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129064",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129065",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129066",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129067",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-basico-preto-241423003/p",
+                "name": "Cardigan tricot básico preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2279856/241423003_0003_010-CARDIGAN-TRICOT-BASICO.jpg?v=638458524213070000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido:tricot leve &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Detalhe canelado na lateral da peça &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2020670",
+                "sku": "2129068",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 239,
+                    "highPrice": 239,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129068",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129069",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129070",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:02:27Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129071",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129072",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-longo-onca-pelo-241426100/p",
+                "name": "Casaco longo onça pelo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2296971/241426100_1023_010-CASACO-LONGO-ONCA-PELO.jpg?v=638459378814400000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga Longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: tricot pesado quentinho &lt;br&gt;&lt;li&gt;Jacquard de onça &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Possui bolsos frontais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash&lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA 360°&lt;/b&gt;&lt;br&gt;&lt;br&gt;360º é a nova linha que equilibra conforto e sofisticação com inovação. Inovação que começa na matéria-prima e se expande em diferentes possibilidades, com peças surpreendentes, para acompanhar a mulher a cada ocasião, do dia à noite.&lt;br&gt; Pra conhecer a linha completa, é só clicar&lt;br&gt;&lt;a href=&quot;https://www.shoulder.com.br/360&quot;&gt;aqui&lt;/a&gt;  e se surpreender.",
+                "mpn": "2019289",
+                "sku": "2119997",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119997",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119998",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:01:21Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119999",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/sobretudo-com-la-241415905/p",
+                "name": "Sobretudo com lã",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2296550/241415905_0368_010-SOBRETUDO-COM-LA.jpg?v=638459374447300000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem pesada &lt;br&gt;&lt;li&gt;Tecido encorpado com excelente isolamento térmico com toque macio e quentinho &lt;br&gt;&lt;li&gt;Fechamento frontal com botões &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Fenda no inferior das costas &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019501",
+                "sku": "2121072",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 649.5,
+                    "highPrice": 649.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 649.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121072",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 649.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121073",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-29T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 649.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121074",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-longo-preto-241424902/p",
+                "name": "Casaco tricot longo preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2296657/241424902_0003_010-CASACO-TRICOT-LONGO.jpg?v=638459375573800000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem Pesado &lt;br&gt;&lt;li&gt;Tecido: tricot com toque macio &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Possui bolsos &lt;br&gt;&lt;li&gt;Possui faixa para amarração &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020755",
+                "sku": "2129369",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129369",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129370",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129371",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129372",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129373",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-longo-areia-241424901/p",
+                "name": "Casaco tricot longo areia",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2296625/241424901_0017_010-CASACO-TRICOT-LONGO.jpg?v=638459375241800000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem Pesado &lt;br&gt;&lt;li&gt;Tecido: tricot com toque macio &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Possui bolsos &lt;br&gt;&lt;li&gt;Possui faixa para amarração &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020754",
+                "sku": "2129366",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129366",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129367",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129368",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-malha-pesado-360-241425103/p",
+                "name": "Casaco malha pesado 360",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2305819/241425103_0483_010-CASACO-MALHA-PESADO.jpg?v=638471657931730000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco Malha &lt;br&gt;&lt;li&gt;Longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Sobretudo &lt;br&gt;&lt;li&gt;Tecido estampado, levemente peludinho, bem pesado com muito isolamento termico  &lt;br&gt;&lt;li&gt;Estampa chevron &lt;br&gt;&lt;li&gt;Bolsos laterais  &lt;br&gt;&lt;li&gt;Shape bem comprido para dias frios&lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash  &lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA 360°&lt;/b&gt;&lt;br&gt;&lt;br&gt;360º é a nova linha que equilibra conforto e sofisticação com inovação. Inovação que começa na matéria-prima e se expande em diferentes possibilidades, com peças surpreendentes, para acompanhar a mulher a cada ocasião, do dia à noite.&lt;br&gt; Pra conhecer a linha completa, é só clicar&lt;br&gt;&lt;a href=&quot;&quot;https://www.shoulder.com.br/360&quot;&quot;&gt;aqui&lt;/a&gt;  e se surpreender.",
+                "mpn": "2020837",
+                "sku": "2129968",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 489.5,
+                    "highPrice": 489.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 489.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129968",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 489.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129969",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 489.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129970",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 489.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129972",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 489.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129975",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-canelado-longo-241425903/p",
+                "name": "Casaco tricot canelado longo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2309447/241425903_0699_010-CASACO-TRICOT-CANELADO-LONGO.jpg?v=638483592540900000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga Longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: tricot pesado canelado &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Possui bolsos frontais &lt;br&gt;&lt;li&gt;Gola alta &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020897",
+                "sku": "2130353",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.5,
+                    "highPrice": 399.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130353",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130354",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130357",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-suede-360-fume-241413001/p",
+                "name": "Casaco suede 360 fumê",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2283526/241413001_0272_010-CASACO-SUEDE.jpg?v=638458601962900000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco&lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem casaco &lt;br&gt;&lt;li&gt;Tecido: Malha poliéster, quentinha, com aspecto aveludado fosco &lt;br&gt;&lt;li&gt;Possui faixa para amarração &lt;br&gt;&lt;li&gt;Possui botões  &lt;br&gt;&lt;li&gt;Possui bolsos &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash  &lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA 360°&lt;/b&gt;&lt;br&gt;&lt;br&gt;360º é a nova linha que equilibra conforto e sofisticação com inovação. Inovação que começa na matéria-prima e se expande em diferentes possibilidades, com peças surpreendentes, para acompanhar a mulher a cada ocasião, do dia à noite.&lt;br&gt; Pra conhecer a linha completa, é só clicar&lt;br&gt;&lt;a href=&quot;https://www.shoulder.com.br/360&quot;&gt;aqui&lt;/a&gt;  e se surpreender.",
+                "mpn": "2020741",
+                "sku": "2129314",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499.99,
+                    "highPrice": 499.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129314",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129315",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129316",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129317",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129318",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-amarracao-faixa-241416900/p",
+                "name": "Casaco amarração faixa",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2309345/241416900_0017_010-CASACO-AMARRACAO-FAIXA.jpg?v=638483590769800000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem pesada &lt;br&gt;&lt;li&gt;Tecido encorpado com excelente isolamento térmico com toque macio e quentinho &lt;br&gt;&lt;li&gt;Fechamento frontal com cinto &lt;br&gt;&lt;li&gt;Bolsos frontais &lt;br&gt;&lt;li&gt;Fenda no inferior das costas &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020896",
+                "sku": "2130349",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499.99,
+                    "highPrice": 499.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130349",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130351",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130352",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-faixa-241415903/p",
+                "name": "Casaco faixa",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2305736/241415903_0483_010-CASACO-COM-FAIXA.jpg?v=638471656532830000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem pesada &lt;br&gt;&lt;li&gt;Tecido encorpado com excelente isolamento térmico com toque macio e quentinho &lt;br&gt;&lt;li&gt;Fechamento frontal com faixa removível &lt;br&gt;&lt;li&gt;Bolsos frontais &lt;br&gt;&lt;li&gt;Fenda no inferior das costas &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020834",
+                "sku": "2129956",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599.99,
+                    "highPrice": 599.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129956",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129957",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-detalhe-canelado-241425905/p",
+                "name": "Cardigan tricot detalhe canelado",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2298917/241425905_0049_010-CARDIGAN-TRICOT-DETALHE-CANELADO.jpg?v=638459402710530000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa&lt;br&gt;&lt;li&gt;Modelagem Pesada  &lt;br&gt;&lt;li&gt;Tecido: tricot leve  &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Possui detalhes canelados &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019244",
+                "sku": "2119653",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 279.5,
+                    "highPrice": 279.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 279.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119653",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 279.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119654",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 279.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119655",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 279.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119656",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 279.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119657",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tweed-241415102/p",
+                "name": "Casaco tweed",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2310355/241415102_0003_010-CASACO-TWEED.jpg?v=638485332080470000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem pesada &lt;br&gt;&lt;li&gt;Tecido: chevron texturizado &lt;br&gt;&lt;li&gt;Fechamento frontal com botões &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020927",
+                "sku": "2130583",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 449.5,
+                    "highPrice": 449.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 449.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130583",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 449.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130584",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T22:58:57Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 449.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130585",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 449.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130586",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 449.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130587",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T22:58:57Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-detalhe-canelado-khaki-241425907/p",
+                "name": "Casaco tricot detalhe canelado khaki",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2360355/241425907_0699_010-CASACO-TRICOT-DETALHE-CANELADO.jpg?v=638563061069100000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: tricot pesado &lt;br&gt;&lt;li&gt;Abertura frontal por zíper &lt;br&gt;&lt;li&gt;Possui bolsos frontais &lt;br&gt;&lt;li&gt;Detalhe canelado centro costas &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019393",
+                "sku": "2120564",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 349.5,
+                    "highPrice": 349.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 349.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120564",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 349.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120565",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 349.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120566",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 349.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120567",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-detalhe-canelado-preto-241425908/p",
+                "name": "Casaco tricot detalhe canelado preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2360178/241425908_0003_010-CASACO-TRICOT-DETALHE-CANELADO.jpg?v=638563043743330000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: tricot pesado &lt;br&gt;&lt;li&gt;Abertura frontal por zíper &lt;br&gt;&lt;li&gt;Possui bolsos frontais &lt;br&gt;&lt;li&gt;Detalhe canelado centro costas &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019403",
+                "sku": "2120594",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120594",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-xadrez-241425901/p",
+                "name": "Casaco tricot xadrez",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2310388/241425901_1023_010-CASACO-TRICOT-XADREZ.jpg?v=638485332751130000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga Longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: tricot pesado &lt;br&gt;&lt;li&gt;Jacquard xadrez &lt;br&gt;&lt;li&gt;Abertura frontal por botões &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020928",
+                "sku": "2130588",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 299.5,
+                    "highPrice": 299.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130588",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130589",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130590",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130591",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2130592",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-malha-amplo-241425000/p",
+                "name": "Casaco malha amplo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2333456/241425000_0017_010-CASACO-MALHA-AMPLO.jpg?v=638544027201900000",
+                "description": "&quot;&lt;br&gt;&lt;li&gt;Jaqueta malha &lt;br&gt;&lt;li&gt;comprimento medio &lt;br&gt;&lt;li&gt;manga 7/8 &lt;br&gt;&lt;li&gt;ampla &lt;br&gt;&lt;li&gt; Malha peletizada com leve canelado e toque super quente, que remete a lã  &lt;br&gt;&lt;li&gt;tecido diferenciado na gola com canelado grosso e mesclado  &lt;br&gt;&lt;li&gt;fechamento frontal em ZÍPER de metal &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash &lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA 360°&lt;/b&gt;&lt;br&gt;&lt;br&gt;360º é a nova linha que equilibra conforto e sofisticação com inovação. Inovação que começa na matéria-prima e se expande em diferentes possibilidades, com peças surpreendentes, para acompanhar a mulher a cada ocasião, do dia à noite.&lt;br&gt; Pra conhecer a linha completa, é só clicar&lt;br&gt;&lt;a href=&quot;&quot;&quot;&quot;https://www.shoulder.com.br/360&quot;&quot;&quot;&quot;&gt;aqui&lt;/a&gt;  e se surpreender.&quot;",
+                "mpn": "2018819",
+                "sku": "2117038",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 459.99,
+                    "highPrice": 459.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117038",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117040",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117041",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117042",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117043",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117044",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 6
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-bicolor-241425909/p",
+                "name": "Casaco tricot bicolor",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2298995/241425909_0003_010-CASACO-TRICOT-BICOLOR.jpg?v=638459403326230000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: tricot com toque macio &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Parte interna com cor contrastante &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019402",
+                "sku": "2120598",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120598",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120599",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120600",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120601",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-pelo-241425904/p",
+                "name": "Cardigan tricot pelo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2306534/241425904_0699_010-CARDIGAN-TRICOT-PELO.jpg?v=638472539659400000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem Leve &lt;br&gt;&lt;li&gt;Tecido: tricot textura pelinhos com toque macio &lt;br&gt;&lt;li&gt;Fechamento frontal com botões &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2018930",
+                "sku": "2117682",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117682",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:11:42Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117683",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117684",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-alfaiatado-241425906/p",
+                "name": "Casaco tricot alfaiatado",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2299001/241425906_0148_010-CASACO-TRICOT-ALFAIATADO.jpg?v=638459403353430000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga Longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: tricot pesado &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Possui bolsos frontais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019386",
+                "sku": "2120517",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120517",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120518",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-pelo-241424905/p",
+                "name": "Casaco tricot pelo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2312893/241424905_0483_010-CASACO-TRICOT-PELO.jpg?v=638500196977900000",
+                "description": "&lt;br&gt;&lt;li&gt;Jaqueta &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem ampla &lt;br&gt;&lt;li&gt;Tecido: tricot peludinho &lt;br&gt;&lt;li&gt;Toque macio e quente &lt;br&gt;&lt;li&gt;Fechamento em zíper &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020757",
+                "sku": "2129376",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 299.5,
+                    "highPrice": 299.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129376",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129377",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129378",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 26,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-tigre-241435100/p",
+                "name": "Casaco tricot tigre",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2311484/241435100_0699_010-CASACO-TRICOT-TIGRE.jpg?v=638495066668200000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga 3/8 &lt;br&gt;&lt;li&gt;Modelagem ampla &lt;br&gt;&lt;li&gt;Tecido: tricot jacquard tigre &lt;br&gt;&lt;li&gt;tigrado em fio peludinho &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2021026",
+                "sku": "2131328",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 299.5,
+                    "highPrice": 299.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131328",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131330",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 299.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131331",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:05:21Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 27,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-amplo-241421901/p",
+                "name": "Cardigan tricot amplo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2273543/241421901_0699_010-CARDIGAN-TRICOT-AMPLO.jpg?v=638457873161200000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem ampla &lt;br&gt;&lt;li&gt;Tecido: tricot telado com mescla de fios em tons de khaki &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019067",
+                "sku": "2118836",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2118836",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 28,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-textura-tricot-khaki-241424906/p",
+                "name": "Cardigan  textura tricot khaki",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2311367/241424906_0699_010-CARDIGAN--TEXTURA-TRICOT-KHAKI.jpg?v=638494093344600000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt; Modelagem Pesado &lt;br&gt;&lt;li&gt;Tecido: tricot mescla de fios com toque quente &lt;br&gt;&lt;li&gt;Fechamento frontal com botões &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019105",
+                "sku": "2118843",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 229.5,
+                    "highPrice": 229.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 229.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2118843",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:12:06Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 229.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2118845",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 229.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2118846",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:06:51Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 29,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-de-sarja-241415904/p",
+                "name": "Casaco de sarja",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2305732/241415904_0003_010-CASACO-DE-SARJA.jpg?v=638471656495670000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem pesada &lt;br&gt;&lt;li&gt;Tecido: Sarja com toque seco &lt;br&gt;&lt;li&gt;Fechamento frontal com botões &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Fechamento punho com botão &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020835",
+                "sku": "2129959",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 379.5,
+                    "highPrice": 379.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 379.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129959",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 379.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129960",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 379.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129961",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 379.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129962",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 30,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-basico-listras-khaki-241425006/p",
+                "name": "Cardigan tricot básico listras khaki",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2310645/241425006_10103_010-CARDIGAN-TRICOT-BASICO-LISTRAS.jpg?v=638490845227000000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido:tricot leve listrado &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Detalhe canelado na lateral da peça &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2021009",
+                "sku": "2131219",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 119.5,
+                    "highPrice": 119.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 119.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131219",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 119.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131220",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 119.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131221",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 119.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131222",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 31,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-tricot-amplo-241424903/p",
+                "name": "Casaco tricot amplo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2306382/241424903_0003_010-CASACO-TRICOT-AMPLO.jpg?v=638472439625530000",
+                "description": "&lt;br&gt;&lt;li&gt;Casaco &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga 3/4 &lt;br&gt;&lt;li&gt;Modelagem ampla &lt;br&gt;&lt;li&gt;Tecido: tricot pesado quentinho &lt;br&gt;&lt;li&gt;Abertura frontal por botão de pressão &lt;br&gt;&lt;li&gt;Possui bolsos frontais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash&lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA 360°&lt;/b&gt;&lt;br&gt;&lt;br&gt;360º é a nova linha que equilibra conforto e sofisticação com inovação. Inovação que começa na matéria-prima e se expande em diferentes possibilidades, com peças surpreendentes, para acompanhar a mulher a cada ocasião, do dia à noite.&lt;br&gt; Pra conhecer a linha completa, é só clicar&lt;br&gt;&lt;a href=&quot;https://www.shoulder.com.br/360&quot;&gt;aqui&lt;/a&gt;  e se surpreender.",
+                "mpn": "2019290",
+                "sku": "2119994",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499.99,
+                    "highPrice": 499.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119994",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119995",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:07:37Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 32,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-basico-listras-preto-241425005/p",
+                "name": "Cardigan tricot básico listras preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2310638/241425005_10103_010-CARDIGAN-TRICOT-BASICO-LISTRAS.jpg?v=638490845100930000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido:tricot leve &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Detalhe canelado na lateral da peça &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2021008",
+                "sku": "2131213",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 159.99,
+                    "highPrice": 159.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 159.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131213",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:06:47Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 159.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131214",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:08:49Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 159.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131215",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 159.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131216",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 159.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2131217",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 33,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-malha-longo-241421000/p",
+                "name": "Cardigan malha longo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2267798/241421000_0060_010-CARDIGAN-MALHA-LONGO.jpg?v=638457796093530000",
+                "description": "&lt;br&gt;&lt;li&gt;Overtop &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Tecido: Malha de viscose com linho,fresquinha, levemente transparente e texturizada por conta da presença do linho &lt;br&gt;&lt;li&gt;Fendas laterais  &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2018956",
+                "sku": "2117841",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 169.5,
+                    "highPrice": 169.5,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 169.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117841",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 169.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117842",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 169.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117843",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 169.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117844",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 169.5,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117845",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 34,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/casaco-suede-360-preto-241413000/p",
+                "name": "Casaco suede 360 preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2283482/241413000_0003_010-CASACO-SUEDE.jpg?v=638458601464630000",
+                "description": "&lt;br&gt;&lt;li&gt;Casacos &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem casaco &lt;br&gt;&lt;li&gt;Tecido: Malha poliéster, quentinha, com aspecto aveludado fosco &lt;br&gt;&lt;li&gt;Possui faixa para amarração &lt;br&gt;&lt;li&gt;Possui botões  &lt;br&gt;&lt;li&gt;Possui bolsos &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash  &lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA 360°&lt;/b&gt;&lt;br&gt;&lt;br&gt;360º é a nova linha que equilibra conforto e sofisticação com inovação. Inovação que começa na matéria-prima e se expande em diferentes possibilidades, com peças surpreendentes, para acompanhar a mulher a cada ocasião, do dia à noite.&lt;br&gt; Pra conhecer a linha completa, é só clicar&lt;br&gt;&lt;a href=&quot;https://www.shoulder.com.br/360&quot;&gt;aqui&lt;/a&gt;  e se surpreender.",
+                "mpn": "2020739",
+                "sku": "2129304",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129304",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129305",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129306",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129307",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129308",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129309",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129310",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 35,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-longo-malha-232421904/p",
+                "name": "Cardigan longo malha",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2148722/232421904_0060_010-CARDIGAN-LONGO-MALHA.jpg?v=638234663461670000",
+                "description": "&lt;li&gt;Cardigan malha &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem Reto &lt;br&gt;&lt;li&gt;Tecido: Malha de viscose com linho,fresquinha, levemente transparente e texturizada por conta da presença do linho  &lt;br&gt;&lt;li&gt;Fendas laterais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2017120",
+                "sku": "2106431",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 169.99,
+                    "highPrice": 169.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 169.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2106431",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 169.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2106432",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 169.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2106434",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 169.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2106435",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-26T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 36,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-malha-amplo-241422000/p",
+                "name": "Cardigan malha amplo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2273582/241422000_0181_010-CARDIGAN-MALHA-AMPLO.jpg?v=638457873564930000",
+                "description": "&lt;br&gt;&lt;li&gt;Cardigan malha &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem leve, amplo &lt;br&gt;&lt;li&gt;Tecido: Malha de viscose com linho,fresquinha, levemente transparente e texturizada por conta da presença do linho &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2018786",
+                "sku": "2116877",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 239.99,
+                    "highPrice": 239.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 239.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116877",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-29T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116878",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116879",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-22T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116880",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 239.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116881",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-25T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 37,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-verde-231423001/p",
+                "name": "Cardigan tricot verde",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2103706/231423001_0181_010-CARDIGAN-TRICOT-BASICO.jpg?v=638126737048700000",
+                "description": "&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Tecido:tricot leve &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Detalhe canelado na lateral da peça &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2017675",
+                "sku": "2109723",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 199.99,
+                    "highPrice": 199.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 199.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2109723",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 199.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2109724",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 199.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2109726",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 199.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2109727",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:12:39Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 38,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/cardigan-tricot-camel-231423000/p",
+                "name": "Cardigan tricot camel",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2315547/231423000_0368_010-CARDIGAN-TRICOT-BASICO.jpg?v=638512029922070000",
+                "description": "&lt;li&gt;Cardigan &lt;br&gt;&lt;li&gt;Comprimento Médio &lt;br&gt;&lt;li&gt;Manga longa &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido:tricot leve &lt;br&gt;&lt;li&gt;Abertura frontal &lt;br&gt;&lt;li&gt;Detalhe canelado na lateral da peça &lt;br&gt;&lt;li&gt;Modelo mede 1,76 m e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2017952",
+                "sku": "2111502",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 199.99,
+                    "highPrice": 199.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 199.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2111502",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 199.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2111505",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-28T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 199.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2111506",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        }
+    ]
+}

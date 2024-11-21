@@ -1,0 +1,2784 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-serena-degrade-mtabtr002sv-45/p",
+                "name": "Mantela Tricot Serena Degrade - Turquesa",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/209095/MTABTR002SV_45_1-MANTELA-TRICOT-SERENA-DEGRADE.png?v=638646215808600000",
+                "description": "Mantela Tricot C/ Manga, Mantela Tricot C/ Fenda Lateral, Mantela Tricot Rendada",
+                "mpn": "MTABTR002SV_45_1",
+                "sku": "20717",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 790,
+                    "highPrice": 790,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20717",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20718",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20719",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20720",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                },
+                "gtin": "021002863008"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-alfaiataria-mariana-qtsgaf001sv-16093/p",
+                "name": "Casaqueto Alfaiataria Mariana - Colorido",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/208243/QTSGAF001SV_16093_1-CASAQUETO-MARIANA.png?v=638635607895930000",
+                "description": "Casaqueto Tweed/ Casaco Tweed/ Blazer Sem Gola De Tweed",
+                "mpn": "QTSGAF001SV_16093_1",
+                "sku": "20494",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 2290,
+                    "highPrice": 2290,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 2290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20494",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 2290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20495",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 2290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20496",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 2290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20497",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 2290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "20498",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "021002835133"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-claire-qtsgaf001ri-01/p",
+                "name": "Casaqueto Claire - Branco",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/201809/QTSGAF001RI_01_1-CASAQUETO-CLAIRE.png?v=638489734860570000",
+                "description": "Casaqueto De Tweed, Casaco Curto De Tweed",
+                "mpn": "QTSGAF001RI_01_1",
+                "sku": "18943",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 1590,
+                    "highPrice": 1590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 1590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "18943",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 1590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "18944",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 1590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "18945",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 1590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "18946",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 1590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "18947",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "021002697073"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-alexia-paete-mtfs000001qi-1289/p",
+                "name": "Mantela Alexia Paetê - Gold",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/191915/MTFS000001QI_1289_1-MANTELA-ALEXIA-PAETE.jpg?v=638176103725600000",
+                "description": "Composição: 100% Poliéster. Forro: 100% Poliéster.",
+                "mpn": "MTFS000001QI_1289_1",
+                "sku": "16093",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 495,
+                    "highPrice": 495,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 495,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "16093",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 495,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "16094",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 495,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "16095",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 495,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "16096",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 495,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "16097",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109441070"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-perfurados-cqtr000001qi-16008/p",
+                "name": "Casaqueto Shrug Tricot Perfurados - Natural",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/192159/CQTR000001QI_16008_1-CASAQUETO-SHRUG-TRICOT-PERFURADOS.jpg?v=638189099831130000",
+                "description": "Tecido: 38% Poliamida, 31% Acrílico, 31% Viscose",
+                "mpn": "CQTR000001QI_16008_1",
+                "sku": "15897",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 490,
+                    "highPrice": 490,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15897",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15898",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15899",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15900",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15901",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109362237"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-perfurados-cqtr000001qi-17/p",
+                "name": "Casaqueto Shrug Tricot Perfurados - Preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/192183/CQTR000001QI_17_1-CASAQUETO-SHRUG-TRICOT-PERFURADOS.jpg?v=638189100014430000",
+                "description": "Tecido: 38% Poliamida, 31% Acrílico, 31% Viscose",
+                "mpn": "CQTR000001QI_17_1",
+                "sku": "15902",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 490,
+                    "highPrice": 490,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15902",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15903",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15904",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15905",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15906",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109363231"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-perfurados-cqtr000001qi-50/p",
+                "name": "Casaqueto Shrug Tricot Perfurados - Caramelo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/191601/CQTR000001QI_50_1-CASAQUETO-SHRUG-TRICOT-PERFURADOS.jpg?v=638157166375330000",
+                "description": "Tecido: 38% Poliamida, 31% Acrílico, 31% Viscose",
+                "mpn": "CQTR000001QI_50_1",
+                "sku": "15912",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 490,
+                    "highPrice": 490,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15912",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15913",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15914",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15915",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15916",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109362793"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-perfurados-cqtr000001qi-31/p",
+                "name": "Casaqueto Shrug Tricot Perfurados - Azul Claro",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/192216/CQTR000001QI_31_1-CASAQUETO-SHRUG-TRICOT-PERFURADOS.jpg?v=638189100247130000",
+                "description": "Tecido: 38% Poliamida, 31% Acrílico, 31% Viscose",
+                "mpn": "CQTR000001QI_31_1",
+                "sku": "15907",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 490,
+                    "highPrice": 490,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15907",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15908",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15909",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15910",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 490,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "15911",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109361700"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-color-crochet-mttr000002qv-44/p",
+                "name": "Mantela Tricot Color Crochet - Off White",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/188944/MTTR000002QV_44_1-MANTELA-TRICOT-COLOR-CROCHET.jpg?v=638042993725970000",
+                "description": "Tecido: 100% Viscose",
+                "mpn": "MTTR000002QV_44_3",
+                "sku": "14995",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 790,
+                    "highPrice": 790,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14995",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14996",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14997",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                },
+                "gtin": "010109238711"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-color-crochet-mttr000002qv-17105/p",
+                "name": "Mantela Tricot Color Crochet - Roxo Iris",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/188915/MTTR000002QV_17105_1-MANTELA-TRICOT-COLOR-CROCHET.jpg?v=638042993495800000",
+                "description": "Tecido: 100% Viscose",
+                "mpn": "MTTR000002QV_17105_1",
+                "sku": "14988",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 790,
+                    "highPrice": 790,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14988",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14989",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14990",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14991",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14992",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109216204"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-tricot-ponto-trabalhado-cqtr000001qv-12102/p",
+                "name": "Casaqueto Tricot Ponto Trabalhado - Verde Mineral",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/187248/CQTR000001QV_12102_1-CASAQUETO-TRICOT-PONTO-TRABALHADO.jpg?v=637993835579930000",
+                "description": "Tecido: 50% Acrílico, 50% Viscose",
+                "mpn": "CQTR000001QV_12102_1",
+                "sku": "14492",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14492",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14493",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14494",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14495",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14496",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109102082"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-tricot-ponto-trabalhado-cqtr000001qv-44/p",
+                "name": "Casaqueto Tricot Ponto Trabalhado - Off White",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/188186/CQTR000001QV_44_1-CASAQUETO-TRICOT-PONTO-TRABALHADO.jpg?v=638018153557430000",
+                "description": "Tecido: 50% Acrílico, 50% Viscose",
+                "mpn": "CQTR000001QV_44_1",
+                "sku": "14497",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14497",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14498",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14500",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14501",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                },
+                "gtin": "010109102539"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/cardigan-tricot-micro-furos-catr000001qv-17/p",
+                "name": "Cardigan Tricot Micro Furos - Preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/187028/CATR000001QV_17_1-CARDIGAN-TRICOT-MICRO-FUROS.jpg?v=637980119589730000",
+                "description": "Tecido: 44% Acrílico, 44% Viscose, 12% Poliamida",
+                "mpn": "CATR000001QV_17_1",
+                "sku": "14443",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14443",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14444",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14445",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14446",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14447",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109126283"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-kimono-tricot-chevron-mttr000003pi-17093/p",
+                "name": "Mantela Kimono Tricot Chevron - Soft Peach",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/188297/MTTR000003PI_17093_1-MANTELA-KIMONO-TRICOT-CHEVRON.jpg?v=638018171577730000",
+                "description": "Tecido: 100% Viscose",
+                "mpn": "MTTR000003PI_17093_1",
+                "sku": "14311",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14311",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14312",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14313",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14314",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14315",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109030168"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-kimono-tricot-chevron-mttr000003pi-12102/p",
+                "name": "Mantela Kimono Tricot Chevron - Verde Mineral",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/186741/MTTR000003PI_12102_1-MANTELA-KIMONO-TRICOT-CHEVRON.jpg?v=637969697750930000",
+                "description": "Tecido: 100% Viscose",
+                "mpn": "MTTR000003PI_12102_3",
+                "sku": "14308",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14308",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "14310",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                },
+                "gtin": "010109029800"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-tricot-tweed-franjinhas-cqtr000003pi-07/p",
+                "name": "Casaqueto Tricot Tweed Franjinhas - Marinho",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/185446/CQTR000003PI_07_1-CASAQUETO-TRICOT-TWEED-FRANJINHAS.jpg?v=637917101790870000",
+                "description": "Tecido: 60% Poliéster, 40% Acrílico",
+                "mpn": "CQTR000003PI_07_1",
+                "sku": "13972",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13972",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "010109034274"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-tricot-macrame-franjas-cqtr000004pi-17074/p",
+                "name": "Casaqueto Tricot Macramê Franjas - Laranja Sunrise",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/184906/CQTR000004PI_17074_1-CASAQUETO-TRICOT-MACRAME-FRANJAS.jpg?v=637903997804130000",
+                "description": "Tecido 64% Acrílico, 24% Algodão, 7% Poliéster, 5% Poliamida",
+                "mpn": "CQTR000004PI_17074_1",
+                "sku": "13829",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13829",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13830",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13831",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13832",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13833",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010109043474"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-lurex-rendado-cqtr000002pi-17083/p",
+                "name": "Casaqueto Shrug Tricot Lurex Rendado - Azul Nevada",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/185627/CQTR000002PI_17083_1-CASAQUETO-SHRUG-TRICOT-LUREX-RENDADO.jpg?v=637932365745670000",
+                "description": "Tecido: 71% Viscose, 29% Poliéster",
+                "mpn": "CQTR000002PI_17083_1",
+                "sku": "13754",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 390,
+                    "highPrice": 390,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13754",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13755",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13756",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                },
+                "gtin": "010109019019"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-lurex-rendado-cqtr000002pi-17074/p",
+                "name": "Casaqueto Shrug Tricot Lurex Rendado - Laranja Sunrise",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/184693/CQTR000002PI_17074_1-CASAQUETO-SHRUG-TRICOT-LUREX-RENDADO.jpg?v=637898057768800000",
+                "description": "Tecido: 71% Viscose, 29% Poliéster",
+                "mpn": "CQTR000002PI_17074_1",
+                "sku": "13751",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 390,
+                    "highPrice": 390,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13751",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13752",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13753",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                },
+                "gtin": "010109016462"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-lurex-rendado-cqtr000002pi-17/p",
+                "name": "Casaqueto Shrug Tricot Lurex Rendado - Preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/185645/CQTR000002PI_17_1-CASAQUETO-SHRUG-TRICOT-LUREX-RENDADO.jpg?v=637932365858300000",
+                "description": "Tecido: 71% Viscose, 29% Poliéster",
+                "mpn": "CQTR000002PI_17_1",
+                "sku": "13748",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 390,
+                    "highPrice": 390,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13748",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13749",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 390,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13750",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                },
+                "gtin": "010109018744"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/cardigan-tricot-manga-fashion-color-catr000001pi-17092/p",
+                "name": "Cardigan Tricot Manga Fashion Color - Light Grape",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/183294/CATR000001PI_17092_1-CARDIGAN-TRICOT-MANGA-FASHION-COLOR.jpg?v=637886717838170000",
+                "description": "Tecido: 50% Viscose, 28% Poliéster, 22% Poliamida",
+                "mpn": "CATR000001PI_17092_1",
+                "sku": "13429",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 198.94,
+                    "highPrice": 198.94,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 198.94,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13429",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 198.94,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13432",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                },
+                "gtin": "010108889113"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/cardigan-tricot-manga-fashion-color-catr000001pi-17093/p",
+                "name": "Cardigan Tricot Manga Fashion Color - Soft Peach",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/183328/CATR000001PI_17093_1-CARDIGAN-TRICOT-MANGA-FASHION-COLOR.png?v=637886735837400000",
+                "description": "Tecido: 50% Viscose, 28% Poliéster, 22% Poliamida",
+                "mpn": "CATR000001PI_17093_1",
+                "sku": "13434",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 198.94,
+                    "highPrice": 198.94,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 198.94,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13434",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "010108889669"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/cardigan-tricot-manga-fashion-color-catr000001pi-32/p",
+                "name": "Cardigan Tricot Manga Fashion Color - Verde Claro",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/183571/CATR000001PI_32_1-CARDIGAN-TRICOT-MANGA-FASHION-COLOR.jpg?v=637892693823930000",
+                "description": "Tecido: 50% Viscose, 28% Poliéster, 22% Poliamida",
+                "mpn": "CATR000001PI_32_1",
+                "sku": "13439",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 198.94,
+                    "highPrice": 198.94,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 198.94,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13439",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "010108888676"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-nervuras-c-fenda-mttr000002pi-17092/p",
+                "name": "Mantela Tricot Nervuras C/ Fenda - Light Grape",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/183064/MTTR000002PI_17092_1-MANTELA-TRICOT-NERVURAS-C--FENDA.jpg?v=637873901883330000",
+                "description": "Tecido: 85% Viscose, 15% Poliéster",
+                "mpn": "MTTR000002PI_17092_1",
+                "sku": "13382",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 790,
+                    "highPrice": 790,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13382",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13383",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13384",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13385",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13386",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010108933733"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-nervuras-c-fenda-mttr000002pi-17083/p",
+                "name": "Mantela Tricot Nervuras C/ Fenda - Azul Nevada",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/184549/MTTR000002PI_17083_1-MANTELA-TRICOT-NERVURAS-C--FENDA.jpg?v=637897823779970000",
+                "description": "Tecido: 85% Viscose, 15% Poliéster",
+                "mpn": "MTTR000002PI_17083_1",
+                "sku": "13377",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 790,
+                    "highPrice": 790,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13377",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13378",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13379",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 790,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13381",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                },
+                "gtin": "010109055787"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 26,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-detalhe-rendado-mttr000001pi-11/p",
+                "name": "Mantela Tricot Detalhe Rendado - Grafite",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/182612/MTTR000001PI_11_1-MANTELA-TRICOT-DETALHE-RENDADO.jpg?v=637868646426800000",
+                "description": "Tecido: 71% Viscose, 29% Poliamida",
+                "mpn": "MTTR000001PI_11_1",
+                "sku": "13269",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 690,
+                    "highPrice": 690,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13269",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13270",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13271",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13273",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                },
+                "gtin": "010108754948"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 27,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-detalhe-rendado-mttr000001pi-10000/p",
+                "name": "Mantela Tricot Detalhe Rendado - Camelo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/184516/MTTR000001PI_10000_1-MANTELA-TRICOT-DETALHE-RENDADO.jpg?v=637897805791730000",
+                "description": "Tecido: 71% Viscose, 29% Poliamida",
+                "mpn": "MTTR000001PI_10000_1",
+                "sku": "13264",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 690,
+                    "highPrice": 690,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13264",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13265",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13266",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13267",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13268",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010108754492"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 28,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-detalhe-rendado-mttr000001pi-003/p",
+                "name": "Mantela Tricot Detalhe Rendado - Vinho",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/185566/MTTR000001PI_003_1-MANTELA-TRICOT-DETALHE-RENDADO.jpg?v=637932347735730000",
+                "description": "Tecido: 71% Viscose, 29% Poliamida",
+                "mpn": "MTTR000001PI_003_1",
+                "sku": "13259",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 690,
+                    "highPrice": 690,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13259",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13260",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13261",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13262",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 690,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "13263",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                },
+                "gtin": "010108864212"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 29,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-veludo-cqtr000001pi-10000/p",
+                "name": "Casaqueto Shrug Tricot Veludo - Camelo",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/182599/CQTR000001PI_10000_1-CASAQUETO-SHRUG-TRICOT-VELUDO.jpg?v=637868646333930000",
+                "description": "Tecido: 73% Poliéster, 27% Viscose",
+                "mpn": "CQTR000001PI_10000_2",
+                "sku": "12962",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "12962",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "12963",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "12964",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                },
+                "gtin": "010108882319"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 30,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-veludo-cqtr000001pi-12058/p",
+                "name": "Casaqueto Shrug Tricot Veludo - Verde Urban",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/182627/CQTR000001PI_12058_1-CASAQUETO-SHRUG-TRICOT-VELUDO.jpg?v=637868646520570000",
+                "description": "Tecido: 73% Poliéster, 27% Viscose",
+                "mpn": "CQTR000001PI_12058_2",
+                "sku": "12967",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "12967",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "12968",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "12969",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                },
+                "gtin": "010108882875"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 31,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-shrug-tricot-veludo-cqtr000001pi-17/p",
+                "name": "Casaqueto Shrug Tricot Veludo - Preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/182264/CQTR000001PI_17_1-CASAQUETO-SHRUG-TRICOT-VELUDO.jpg?v=637854875954670000",
+                "description": "Tecido: 73% Poliéster, 27% Viscose",
+                "mpn": "CQTR000001PI_17_2",
+                "sku": "12972",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "12972",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "12973",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                },
+                "gtin": "010108881881"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 32,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-olivia-mtcs000001pv-12119/p",
+                "name": "Mantela Olivia - Laranja Jelly",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/173056/MTCS000001PV_12119_1-MANTELA-OLIVIA.jpg?v=637776234456070000",
+                "description": "",
+                "mpn": "MTCS000001PV_12119_4",
+                "sku": "6100",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 145,
+                    "highPrice": 145,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 145,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "6100",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 145,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "6101",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                },
+                "gtin": "010108703147"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 33,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-listrado-transparente-mttr000002pv-44/p",
+                "name": "Mantela Tricot Listrado Transparente - Off White",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/173018/MTTR000002PV_44_1-MANTELA-TRICOT-LISTRADO-TRANSPARENTE.jpg?v=637776234195700000",
+                "description": "",
+                "mpn": "MTTR000002PV_44_1",
+                "sku": "3774",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3774",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3776",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3777",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3778",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                },
+                "gtin": "010108714335"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 34,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-tricot-listrado-transparente-mttr000002pv-17/p",
+                "name": "Mantela Tricot Listrado Transparente - Preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/169922/MTTR000002PV_17_1-MANTELA-TRICOT-LISTRADO-TRANSPARENTE.jpg?v=637771012021700000",
+                "description": "",
+                "mpn": "MTTR000002PV_17_2",
+                "sku": "3770",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3770",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3773",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                },
+                "gtin": "010108591987"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 35,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/mantela-comfy-marcia-mtmc000001ni-170003/p",
+                "name": "Mantela Comfy Marcia - Listrado",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/169841/MTMC000001NI_170003_1-MANTELA-COMFY-MARCIA.jpg?v=637771011429700000",
+                "description": "",
+                "mpn": "MTMC000001NI_170003_1",
+                "sku": "3738",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 290,
+                    "highPrice": 290,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3738",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3739",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3740",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3741",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3742",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 290,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "3743",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 6
+                },
+                "gtin": "010108523237"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 36,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-tricot-tweed-franjinhas-cqtr000003pi-004/p",
+                "name": "Casaqueto Tricot Tweed Franjinhas - Branco",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/185893/CQTR000003PI_004_1-CASAQUETO-TRICOT-TWEED-FRANJINHAS.jpg?v=637932437731500000",
+                "description": "Tecido: 60% Poliéster, 40% Acrílico",
+                "mpn": "CQTR000003PI_004_1",
+                "sku": "13967",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/OutOfStock",
+                            "sku": "13967",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "010109034731"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 37,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.brooksdonna.com.br/casaqueto-tricot-tweed-franjinhas-cqtr000003pi-17/p",
+                "name": "Casaqueto Tricot Tweed Franjinhas - Preto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "BROOKSDONNA"
+                },
+                "image": "https://brooksfielddonna.vtexassets.com/arquivos/ids/185474/CQTR000003PI_17_1-CASAQUETO-TRICOT-TWEED-FRANJINHAS.jpg?v=637917102071270000",
+                "description": "Tecido: 60% Poliéster, 40% Acrílico",
+                "mpn": "CQTR000003PI_17_1",
+                "sku": "13977",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 590,
+                    "highPrice": 590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/OutOfStock",
+                            "sku": "13977",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Brooksfield Donna"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "010109038250"
+            }
+        }
+    ]
+}

@@ -1,0 +1,3473 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-midi-com-elastano-011130939001/p",
+                "name": "Saia midi com elastano",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2367289/011130939001_0699_010-SAIA-MIDI-COM-ELASTANO.jpg?v=638570216540430000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido Alfaiataria encorpada com elastano  &lt;br&gt;&lt;li&gt;Fechamento frontal com zíper, colchete e botão interno &lt;br&gt;&lt;li&gt;Cós com passantes &lt;br&gt;&lt;li&gt;Bolsos faca nas laterais e bolsos com vivo e botões nas costas &lt;br&gt;&lt;li&gt;Fenda no centro frente &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020069",
+                "sku": "2125390",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125390",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125391",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125392",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:33:13Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125393",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125394",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125395",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125396",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-jeans-longa-011130910001/p",
+                "name": "Saia jeans longa",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2363637/011130910001_1117_010-SAIA-JEANS-LONGA.jpg?v=638569107620900000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia jeans &lt;br&gt;&lt;li&gt;Comprimento longo &lt;br&gt;&lt;li&gt;Cintura média &lt;br&gt;&lt;li&gt;Modelagem Reta &lt;br&gt;&lt;li&gt;Tecido: jeans sem elasticidade &lt;br&gt;&lt;li&gt;Fechamento braguilha por zíper e botão de metal &lt;br&gt;&lt;li&gt;Peça five pockets &lt;br&gt;&lt;li&gt;Fenda frente &lt;br&gt;&lt;li&gt;Barra convencional &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2020234",
+                "sku": "2126636",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399,
+                    "highPrice": 399,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126636",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126637",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126638",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126639",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126640",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126641",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126642",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126643",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 8
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-couro-recortes-khaki-241095906/p",
+                "name": "Saia couro recortes khaki",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2313118/241095906_0699_010-SAIA-DE-COURO-RECORTES-KHAKI.jpg?v=638500205737300000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido:100% couro &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper de metal &lt;br&gt;&lt;li&gt;Recortes &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019902",
+                "sku": "2123903",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 3590,
+                    "highPrice": 3590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123903",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-25T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123904",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-27T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123905",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123906",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123907",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123908",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123909",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-alfaiataria-cinza-012420919001/p",
+                "name": "Saia alfaiataria cinza",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2325869/012420919001_1016_010-SAIA-ALFAIATARIA-RETA.jpg?v=638542280489570000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido encorpado de alfaiataria com textura &lt;br&gt;&lt;li&gt;Fechamento frontal com zíper, colchete e botão interno &lt;br&gt;&lt;li&gt;Cós com passantes &lt;br&gt;&lt;li&gt;Bolsos faca nas laterais e bolsos com vivo e botões nas costas &lt;br&gt;&lt;li&gt;Fenda no centro costas &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020284",
+                "sku": "2126645",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126645",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126646",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126647",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126648",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126649",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126650",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:35:48Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2126651",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:28:27Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-malha-alfaiataria-360-011130930001/p",
+                "name": "Saia malha alfaiataria 360",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2370361/011130930001_0003_010-SAIA-MALHA-ALFAIATARIA-360.jpg?v=638572707778500000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia malha &lt;br&gt;&lt;li&gt;Comprimento longuete &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem alfaiatada &lt;br&gt;&lt;li&gt;Tecido de malha mista e estruturada, com toque algodonado e macio &lt;br&gt;&lt;li&gt;recortes pespontados &lt;br&gt;&lt;li&gt;bolso frontais  &lt;br&gt;&lt;li&gt;elastico confortavel na cintura &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrênca do uso do flash  &lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA 360°&lt;/b&gt;&lt;br&gt;&lt;br&gt;360º é a nova linha que equilibra conforto e sofisticação com inovação. Inovação que começa na matéria-prima e se expande em diferentes possibilidades, com peças surpreendentes, para acompanhar a mulher a cada ocasião, do dia à noite.&lt;br&gt; Pra conhecer a linha completa, é só clicar&lt;br&gt;&lt;a href=&quot;https://www.shoulder.com.br/360&quot;&gt;aqui&lt;/a&gt;  e se surpreender.",
+                "mpn": "2020068",
+                "sku": "2125381",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499,
+                    "highPrice": 499,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125381",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125382",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125383",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125384",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125385",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:31:20Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125386",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125387",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125388",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 8
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-jeans-evase-012420920001/p",
+                "name": "Saia jeans evasê",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2361854/012420920001_1119_010-SAIA-JEANS-EVASE.jpg?v=638566534398270000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia jeans &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem Evasê &lt;br&gt;&lt;li&gt;Tecido: jeans com liocel e modal, sem elasticidade &lt;br&gt;&lt;li&gt;Fechamento lateral por zíper de metal &lt;br&gt;&lt;li&gt;Recortes verticais &lt;br&gt;&lt;li&gt;Peça sem cós &lt;br&gt;&lt;li&gt;Barra convencional com detalhe de lavanderia &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2021742",
+                "sku": "2135931",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 559,
+                    "highPrice": 559,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 559,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2135931",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 559,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2135933",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 559,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2135934",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:28:17Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 559,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2135935",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 559,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2135937",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-evase-cintura-elastica-preta-241095901/p",
+                "name": "Saia evasê cintura elástica preta",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2292299/241095901_0003_010-SAIA-EVASE-CINTURA-COM-ELASTICO.jpg?v=638459330587230000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Viscose acetinada leve com toque gelado &lt;br&gt;&lt;li&gt;Cintura com elástico &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019619",
+                "sku": "2121964",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499,
+                    "highPrice": 499,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121964",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:23:52Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121965",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121966",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121967",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121968",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-midi-com-elastico-241091900/p",
+                "name": "Saia midi com elástico",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2269599/241091900_0003_010-SAIA-MIDI-FORTALEZA.jpg?v=638457827720700000",
+                "description": "Para um visual estruturado e incrivelmente confortável. A saia Fortaleza compõem looks com bastante autenticidade, quem prova se surpreende e aprova&lt;br&gt;\r\n&lt;br&gt;&lt;li&gt;Principais características: \r\n&lt;br&gt;&lt;li&gt; Tecido plano  mais estruturado\r\n&lt;br&gt;&lt;li&gt; Shape evasê\r\n&lt;br&gt;&lt;li&gt; Cós largo com elástico\r\n&lt;br&gt;&lt;li&gt;Comprimento midi\r\n&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Tecido sarjado estruturado &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper &lt;br&gt;&lt;li&gt;Cós com elástico &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2018637",
+                "sku": "2115912",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499,
+                    "highPrice": 499,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115912",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115913",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115914",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115915",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115916",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115917",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-25T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115918",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-textura-verde-012420911000/p",
+                "name": "Saia textura verde",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2341277/012420911000_1023_010-SAIA-TEXTURA-VERDE.jpg?v=638551855813100000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido:Natural mistura de linho com viscose &lt;br&gt;&lt;li&gt;Fechamento com zíper invisível lateral &lt;br&gt;&lt;li&gt;Elástico interno no cós para conforto &lt;br&gt;&lt;li&gt;Transpasse fixo com amarração &lt;br&gt;&lt;li&gt;Barra da saia desnivelada &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019858",
+                "sku": "2123572",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123572",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123573",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123574",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123575",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123576",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123577",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123578",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123579",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 8
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-cobra-acetinada-012420921001/p",
+                "name": "Saia cobra acetinada",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2370426/012420921001_0003_010-SAIA-COBRA-ACETINADA.jpg?v=638573347276300000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Cetim leve fluido &lt;br&gt;&lt;li&gt;Cós com elástico &lt;br&gt;&lt;li&gt;Recorte na região do quadril &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020107",
+                "sku": "2125406",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125406",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125407",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:24:31Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125408",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125409",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125410",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125411",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125412",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-evase-cintura-elastica-militar-241095907/p",
+                "name": "Saia evasê cintura elástica militar",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2309092/241095907_0181_010-SAIA-EVASE-CINTURA-COM-ELASTICO.jpg?v=638479460209500000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Viscose acetinada leve com toque gelado &lt;br&gt;&lt;li&gt;Cintura com elástico &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019855",
+                "sku": "2123551",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499,
+                    "highPrice": 499,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123551",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123552",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123553",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123554",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123555",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-malha-viscolinho-241091001/p",
+                "name": "Saia malha viscolinho",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2265549/241091001_0060_010-SAIA-MALHA-VISCOLINHO.jpg?v=638457769820700000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia malha &lt;br&gt;&lt;li&gt;Comprimento longuete &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem reto &lt;br&gt;&lt;li&gt;Tecido: Malha de viscose com linho,fresquinha, levemente transparente e texturizada por conta da presença do linho  &lt;br&gt;&lt;li&gt;Viscose de reflorestamento &lt;br&gt;&lt;li&gt;Elástico na cintura &lt;br&gt;&lt;li&gt;Modelo mede 1,76m e usa tamanho 36&lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash.&lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA SOU&lt;/b&gt;&lt;br&gt;&lt;br&gt;Isso significa mais sustentabilidade na sua produção e na sua matéria - prima. Com iniciativas que cuidam das pessoas, do meio ambiente e da nossa cadeia de valor, estamos em movimento constante para diminuir nossos impactos. A sustentabilidade na SHOULDER é uma transformação em curso. Saiba mais &lt;a href=&quot;https://www.shoulder.com.br/lp-sou&quot;&gt;aqui&lt;/a&gt;.",
+                "mpn": "2018906",
+                "sku": "2117606",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399,
+                    "highPrice": 399,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117606",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117607",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117608",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117609",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-22T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117610",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-06-21T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-midi-com-elastano-011130939002/p",
+                "name": "Saia midi com elastano",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2367398/011130939002_0003_010-SAIA-MIDI-COM-ELASTANO.jpg?v=638570217597670000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento mid&lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido Alfaiataria encorpada com elastano&lt;br&gt;&lt;li&gt;Fechamento frontal com zíper, colchete e botão interno &lt;br&gt;&lt;li&gt;Cós com passantes &lt;br&gt;&lt;li&gt;Bolsos faca nas laterais e bolsos com vivo e botões nas costas &lt;br&gt;&lt;li&gt;Fenda no centro frente &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36&lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020070",
+                "sku": "2125398",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125398",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125399",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125400",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125401",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125402",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125403",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2125404",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:27:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-paisley-sol-012420931001/p",
+                "name": "Saia paisley sol",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2366347/012420931001_1023_010-SAIA-PAISLEY-SOL.jpg?v=638570140130630000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Crepe leve &lt;br&gt;&lt;li&gt;Viscose de reflorestamento &lt;br&gt;&lt;li&gt;Fechamento nas costas com zíper invisível e colchete &lt;br&gt;&lt;li&gt;Fendas laterais &lt;br&gt;&lt;li&gt;Amarração lateral &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020020",
+                "sku": "2124709",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2124709",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2124710",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2124711",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2124712",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2124713",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2124714",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2124715",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:33:01Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-midi-black-jeans-241095001/p",
+                "name": "Saia midi black jeans",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2292176/241095001_1120_010-SAIA-MIDI-BLACK-JEANS.jpg?v=638459329640870000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia jeans &lt;br&gt;&lt;li&gt;Comprimento longuete &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem Reto &lt;br&gt;&lt;li&gt;Tecido: jeans sem elasticidade &lt;br&gt;&lt;li&gt;Fechamento braguilha por zíper e botão de metal &lt;br&gt;&lt;li&gt;Fenda frente &lt;br&gt;&lt;li&gt;Peça five pockets &lt;br&gt;&lt;li&gt;Barra à fio&lt;br&gt;&lt;li&gt;Modelo mede 1,76m e usa tamanho 36&lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash.&lt;/b&gt;&lt;br&gt;&lt;br&gt;ESTA É UMA PEÇA SOU&lt;/b&gt;&lt;br&gt;&lt;br&gt;Isso significa mais sustentabilidade na sua produção e na sua matéria - prima. Com iniciativas que cuidam das pessoas, do meio ambiente e da nossa cadeia de valor, estamos em movimento constante para diminuir nossos impactos. A sustentabilidade na SHOULDER é uma transformação em curso. Saiba mais &lt;a href=&quot;https://www.shoulder.com.br/lp-sou&quot;&gt;aqui&lt;/a&gt;.",
+                "mpn": "2019769",
+                "sku": "2122959",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399,
+                    "highPrice": 399,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122959",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122960",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:24:15Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122961",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:24:15Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122962",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122963",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122964",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122965",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-26T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-reta-bolsos-cargo-preta-241095902/p",
+                "name": "Saia reta bolsos cargo preta",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2292372/241095902_0003_010-SAIA-RETA-BOLSOS-CARGO.jpg?v=638459331238230000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: Tecido sarjado estruturado &lt;br&gt;&lt;li&gt;Fechamento frontal com zíper de metal e botão interno &lt;br&gt;&lt;li&gt;Bolso cargo &lt;br&gt;&lt;li&gt;Bolso faca lateral &lt;br&gt;&lt;li&gt;Fenda frontal &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019604",
+                "sku": "2121979",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2121979",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-poa-aquarela-012420941004/p",
+                "name": "Saia poá aquarela",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2361037/012420941004_1023_010-SAIA-POA-AQUARELA.jpg?v=638564103926870000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido:Crepe leve &lt;br&gt;&lt;li&gt;Elástico no interno do cós &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste\r tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2020804",
+                "sku": "2129777",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499,
+                    "highPrice": 499,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129777",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129778",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129779",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129780",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129781",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129782",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129783",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2129784",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 8
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-evase-com-cinto-241094902/p",
+                "name": "Saia evasê com cinto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2292101/241094902_0017_010-SAIA-EVASE-COM-CINTO.jpg?v=638459328988870000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Tecido sarjado estruturado &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper de metal &lt;br&gt;&lt;li&gt;Cinto com fivela &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Saia forrada &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019397",
+                "sku": "2120574",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120574",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120575",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120576",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120579",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120581",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-22T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-transpassada-botoes-241091901/p",
+                "name": "Saia transpassada botões",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2269704/241091901_0003_010-SAIA-TRANSPASSADA-BOTOES.jpg?v=638457828977100000",
+                "description": "&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Alfaiataria texturizado &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper invisível &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Botões frontais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2018745",
+                "sku": "2116618",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499,
+                    "highPrice": 499,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116618",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:35:48Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116619",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116620",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-evase-com-prega-242092901/p",
+                "name": "Saia evasê com prega",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2358838/242092901_0079_010-SAIA-EVASE-COM-PREGA.jpg?v=638560686460330000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Tecido sarjado estruturado &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper invisível &lt;br&gt;&lt;li&gt;Faixa pespontada removível para amarração &lt;br&gt;&lt;li&gt;Bolso frente &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019636",
+                "sku": "2122035",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 579,
+                    "highPrice": 579,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 579,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122035",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 579,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122036",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:33:36Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 579,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122037",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 579,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122038",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 579,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122039",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 579,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122040",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 579,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122041",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 579,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122042",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 8
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-couro-recortes-preta-241095905/p",
+                "name": "Saia couro recortes preta",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2312077/241095905_0003_010-SAIA-DE-COURO-RECORTES.jpg?v=638500141633800000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido:100% couro &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper de metal &lt;br&gt;&lt;li&gt;Recortes &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019901",
+                "sku": "2123895",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 3590,
+                    "highPrice": 3590,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123895",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123896",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123897",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123898",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123899",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123900",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123901",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-27T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 3590,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123902",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 8
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-onca-escura-241095101/p",
+                "name": "Saia onça escura",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2292245/241095101_1023_010-SAIA-ONCA-ESCURA.jpg?v=638459330173770000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Crepe leve &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper invisível e colchete &lt;br&gt;&lt;li&gt;Cintura com elástico &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019693",
+                "sku": "2122458",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 459.99,
+                    "highPrice": 459.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122458",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122461",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122462",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-reta-bolsos-cargo-mocha-241095903/p",
+                "name": "Saia reta bolsos cargo mocha",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2292391/241095903_0368_010-SAIA-RETA-BOLSOS-CARGO.jpg?v=638459331415000000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: Tecido sarjado estruturado &lt;br&gt;&lt;li&gt;Fechamento frontal com zíper de metal e botão interno &lt;br&gt;&lt;li&gt;Bolso cargo &lt;br&gt;&lt;li&gt;Bolso faca lateral &lt;br&gt;&lt;li&gt;Fenda frontal &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019713",
+                "sku": "2122596",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 599,
+                    "highPrice": 599,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122596",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-21T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122597",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-29T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 599,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2122602",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-flor-mini-241096101/p",
+                "name": "Saia  flor mini",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2307172/241096101_1023_010-SAIA--FLOR-MINI.jpg?v=638477526505630000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Viscose acetinada leve com toque gelado &lt;br&gt;&lt;li&gt;Fechamento com zíper invisível lateral &lt;br&gt;&lt;li&gt;Elástico na cintura costas &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019823",
+                "sku": "2123276",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 459.99,
+                    "highPrice": 459.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123276",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123277",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123278",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123279",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123280",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123282",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2123283",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-curta-com-bolsos-241092902/p",
+                "name": "Saia curta com bolsos",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2275560/241092902_0368_010-SAIA-CURTA-COM-BOLSOS.jpg?v=638457905870500000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento curto &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem reta &lt;br&gt;&lt;li&gt;Tecido: Crepe alfaiataria encorpado &lt;br&gt;&lt;li&gt;Fechamento frontal com zíper e colchete gancho &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Passantes no cós &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2018788",
+                "sku": "2117014",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117014",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117015",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:12:33Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117017",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:12:33Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2117019",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 4
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 26,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-midi-poa-241093002/p",
+                "name": "Saia midi poá",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2281249/241093002_1023_010-SAIA-MIDI-POA.jpg?v=638458576060870000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Sarjado estruturado &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper invisível e colchete &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Passantes na cintura com faixa solta &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019445",
+                "sku": "2120725",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499.99,
+                    "highPrice": 499.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120725",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120726",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 27,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-midi-jardim-241094101/p",
+                "name": "Saia midi jardim",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2287878/241094101_1023_010-SAIA-MIDI-JARDIM.jpg?v=638459276259170000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Viscose acetinada leve com toque gelado &lt;br&gt;&lt;li&gt;Cintura com elástico &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019462",
+                "sku": "2120826",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 459.99,
+                    "highPrice": 459.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120826",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120827",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120828",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120829",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:17:06Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120830",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 28,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-evase-utilitaria-241094900/p",
+                "name": "Saia evasê utilitária",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2291970/241094900_0181_010-SAIA-EVASE-UTILITARIA.jpg?v=638459327652770000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Tecido encorpado com toque de pessego &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper invisível &lt;br&gt;&lt;li&gt;Bolsos laterais e costas &lt;br&gt;&lt;li&gt;Cinto com fivela &lt;br&gt;&lt;li&gt;Passantes no cós &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019059",
+                "sku": "2118529",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499.99,
+                    "highPrice": 499.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2118529",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2118534",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2118535",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 3
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 29,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-tricot-midi-241092900/p",
+                "name": "Saia tricot midi",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2275482/241092900_0003_010-SAIA-TRICOT-MIDI.jpg?v=638457905123130000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento longuete &lt;br&gt;&lt;li&gt;Cintura média &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: tricot com textura &lt;br&gt;&lt;li&gt;Possui forro &lt;br&gt;&lt;li&gt;Detalhe de nervuras no cós &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2018600",
+                "sku": "2115717",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499.99,
+                    "highPrice": 499.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115717",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-25T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115718",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-29T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115719",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115720",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2115721",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 30,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-evase-com-faixa-232095900/p",
+                "name": "Saia evasê com faixa",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2185873/232095900_0003_010-SAIA-EVASE-COM-FAIXA.jpg?v=638301420706300000",
+                "description": "&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Tecido encorpado    com toque de pessego &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper &lt;br&gt;&lt;li&gt;Faixa solta para amarração    &lt;br&gt;&lt;li&gt;Passantes &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto    nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2017820",
+                "sku": "2110772",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499.99,
+                    "highPrice": 499.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2110772",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 31,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-coracao-241093001/p",
+                "name": "Saia coração",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2281143/241093001_1023_010-SAIA-CORACAO.jpg?v=638458574897300000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Crepe leve &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper invisível e colchete &lt;br&gt;&lt;li&gt;Cós com elástico &lt;br&gt;&lt;li&gt;Fenda frontal &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019271",
+                "sku": "2120038",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120038",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120039",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120040",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120041",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120042",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120043",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120044",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120045",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 8
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 32,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-margarida-241094100/p",
+                "name": "Saia margarida",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2301059/241094100_1023_010-SAIA-MARGARIDA.jpg?v=638465575977570000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi alongado &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Crepe leve &lt;br&gt;&lt;li&gt;Cintura com elástico &lt;br&gt;&lt;li&gt;modelo 1 : mede 1,76m e usa tamanho 36&lt;br&gt;&lt;li&gt;modelo 2 : mede 1,75m e usa tamanho 46&lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019430",
+                "sku": "2120677",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 399.99,
+                    "highPrice": 399.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120677",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120678",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120679",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120680",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120681",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 399.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120683",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 6
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 33,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-tricot-recorte-assimetrico-241093900/p",
+                "name": "Saia tricot recorte assimétrico",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2291883/241093900_0049_010-SAIA-TRICOT-RECORTE-ASSIMETRICO.jpg?v=638459326926930000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento longuete &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: tricot &lt;br&gt;&lt;li&gt;Toque gelado &lt;br&gt;&lt;li&gt;Cintura com elastico embutido &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em DECORRÊNCIA do uso do flash",
+                "mpn": "2019112",
+                "sku": "2119064",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 459.99,
+                    "highPrice": 459.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119064",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2119065",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 2
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 34,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-transpassada-com-bolsos-241094901/p",
+                "name": "Saia transpassada com bolsos",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2291974/241094901_0269_010-SAIA-TRANSPASSADA-COM-BOLSOS.jpg?v=638459327686730000",
+                "description": "&lt;br&gt;&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Sarjado estruturado &lt;br&gt;&lt;li&gt;Fechamento costas com zíper de metal &lt;br&gt;&lt;li&gt;Transpasse fixo na saia &lt;br&gt;&lt;li&gt;Forro &lt;br&gt;&lt;li&gt;Bolsos laterais &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2019315",
+                "sku": "2120089",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 459.99,
+                    "highPrice": 459.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120089",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120090",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120091",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120092",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T23:17:06Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120093",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120094",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-30T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 459.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2120096",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 7
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 35,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.shoulder.com.br/saia-paisley-hera-241091000/p",
+                "name": "Saia paisley hera",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SHOULDER"
+                },
+                "image": "https://shoulder.vtexassets.com/arquivos/ids/2265525/241091000_1023_010-SAIA-PAISLEY-HERA.jpg?v=638457769374430000",
+                "description": "&lt;li&gt;Saia &lt;br&gt;&lt;li&gt;Comprimento midi &lt;br&gt;&lt;li&gt;Cintura alta &lt;br&gt;&lt;li&gt;Modelagem evasê &lt;br&gt;&lt;li&gt;Tecido: Tecido natural mistura de linho com viscose &lt;br&gt;&lt;li&gt;Fechamento lateral com zíper invisível e colchete &lt;br&gt;&lt;li&gt;Pregas frontais e traseiras &lt;br&gt;&lt;li&gt;Modelo mede 1,76M e veste tamanho 36 &lt;br&gt;&lt;li&gt;A cor do produto nas fotos produzidas com modelos pode sofrer alteração em decorrência do uso do flash",
+                "mpn": "2018729",
+                "sku": "2116517",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 499.99,
+                    "highPrice": 499.99,
+                    "priceCurrency": "BRL",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116517",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116519",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116520",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-22T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116522",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-31T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": 499.99,
+                            "priceCurrency": "BRL",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2116524",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-07-24T00:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Shoulder"
+                            }
+                        }
+                    ],
+                    "offerCount": 5
+                }
+            }
+        }
+    ]
+}
