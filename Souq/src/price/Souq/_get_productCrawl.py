@@ -88,7 +88,7 @@ if __name__ == "__main__":
   marca = "Souq"
 
   # Arquivo com as informações para o crawler
-  file = f'src/price/{marca}/to_crawl.xlsx'
+  file = f'Souq/src/price/{marca}/to_crawl.xlsx'
 
   # Carrega os dados do excel
   wb = load_workbook(file)
@@ -128,7 +128,7 @@ if __name__ == "__main__":
       }
 
       # Convert and write JSON object to file
-      with open(f"src/price/{marca}/products/{product_id}.json", "w", encoding='utf-8') as f: 
+      with open(f"Souq/src/price/{marca}/products/{product_id}.json", "w", encoding='utf-8') as f: 
           json.dump(product_info, f, ensure_ascii=False, indent= 4)
 
       # Marca como 1 o campo flg_crawled

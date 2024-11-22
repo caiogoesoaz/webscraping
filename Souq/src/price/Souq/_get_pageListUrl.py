@@ -66,6 +66,6 @@ if __name__ == "__main__":
   data = get_page_list('https://www.souqstore.com.br/')
 
   df = pd.DataFrame(data, columns =['lista', 'url'], dtype = str)
-  df.to_excel(f'src/price/{marca}/pageList.xlsx', index=False)
+  df.to_excel(f'Souq/src/price/{marca}/pageList.xlsx', index=False)
 
   driver.quit()
